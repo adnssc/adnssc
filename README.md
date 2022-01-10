@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+programming / electronics / ethical hacking
+
+contact: aldin.sisic@protonmail.com
+
+
 <!--
 **adnssc/adnssc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
