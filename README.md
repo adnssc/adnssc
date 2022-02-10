@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-programming / electronics / ethical hacking
-
 contact: aldin.sisic@protonmail.com
 
 
